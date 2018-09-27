@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ilmapp", "ilmapp\ilmapp.csproj", "{00DD8A40-9F42-4A05-A60C-AF077D0088E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ilmapp.Core", "ilmapp.Core\ilmapp.Core.csproj", "{DDD9B987-BCA2-4ACE-920B-6EEC7F04114E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00DD8A40-9F42-4A05-A60C-AF077D0088E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DD8A40-9F42-4A05-A60C-AF077D0088E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DD8A40-9F42-4A05-A60C-AF077D0088E5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{00DD8A40-9F42-4A05-A60C-AF077D0088E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DD8A40-9F42-4A05-A60C-AF077D0088E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DD8A40-9F42-4A05-A60C-AF077D0088E5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{DDD9B987-BCA2-4ACE-920B-6EEC7F04114E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDD9B987-BCA2-4ACE-920B-6EEC7F04114E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDD9B987-BCA2-4ACE-920B-6EEC7F04114E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDD9B987-BCA2-4ACE-920B-6EEC7F04114E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72242E21-8BC8-4BC3-ABC5-D428FBF7BD9D}
+	EndGlobalSection
+EndGlobal
